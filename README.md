@@ -3,13 +3,7 @@
 
 ---
 
-## 👨‍💻 Summary
-Motivated **Full Stack Developer (MERN)** with hands-on experience building responsive, scalable web applications and integrating **AI/ML features** into real-world projects.  
-Strong fundamentals, consistent learning, and a focus on writing clean, maintainable code.
-
----
-
-## 🛠️ Skills
+##  Skills
 
 ### **Web Development**
 - **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS  
