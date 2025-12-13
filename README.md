@@ -29,15 +29,6 @@
 [https://movie-app-seven-ruddy-42.vercel.app/]
 
 
----
-
-## 🔭 Currently Learning / Improving
-- Advanced React patterns  
-- API design & optimization  
-- More AI integrations (LLMs in MERN stack)  
-
----
-
 ## 🤝 Open to Opportunities
 Actively looking for **Full-Stack Developer**, **Frontend Developer**, or **AI-assisted Web Developer** roles.  
 Open to internships, full-time, and freelance collaborations.
